@@ -23,12 +23,12 @@ spec:
         - name: ProxySite
           value: ""
         - name: Vless_UUID
-          value: "273d7707-9bb1-44ff-b24c-b59876344cac"
+          value: "b03b30c6-349e-4ebd-b418-f1977468a030"
         - name: Vless_Path
-          value: "/s233"
+          value: "/ugyu"
         - name: Vmess_UUID
-          value: "273d7707-9bb1-44ff-b24c-b59876344cac"
+          value: "b03b30c6-349e-4ebd-b418-f1977468a030"
         - name: Vmess_Path
-          value: "/s244"
+          value: "/jphu"
         - name: Share_Path
           value: "/share233"
